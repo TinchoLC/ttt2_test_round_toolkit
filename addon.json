@@ -1,0 +1,6 @@
+{
+    "title": "[TTT2] Test Round Toolkit",
+    "type": "servercontent",
+    "tags": ["fun"],
+    "ignore": ["base/*", "docs/*", "tests/*", "*.md", ".git/*"]
+}
